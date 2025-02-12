@@ -18,13 +18,6 @@
 
 ---
 
-### 📂 My Repositories:
-🔹 **[Basic to Advanced Codes](https://github.com/GH0STxCoder?tab=repositories)** - Step-by-step coding journey.  
-🔹 **[Cybersecurity Tools](https://github.com/GH0STxCoder?tab=repositories)** - Ethical hacking and security research.  
-🔹 **[Automation & AI](https://github.com/GH0STxCoder?tab=repositories)** - Smart automation projects.
-
----
-
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GH0STxCoder&show_icons=true&theme=radical" alt="GitHub Stats" />
